@@ -32,10 +32,9 @@ I am a web developer. I am always enthusiastic about new creative projects for w
 
 
 - any collobration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
-
+- web development projects,
+- internships.
+  
 <details>
    <summary>📃 Resume</summary>
 
